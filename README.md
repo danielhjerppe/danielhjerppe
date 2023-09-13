@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**danielhjerppe/danielhjerppe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🛠️ Mechanical Engineer with a passion for innovation
+- 💡 Strong CAD wizard with expertise in Siemens NX and Autodesk Fusion
+- 💻 Coding enthusiast, fluent in Python, ABB Rapid, and a bit of C
+- 🎵 Professional Drummer on a journey through the world of engineering and music
 
-Here are some ideas to get you started:
+## Let's Connect
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/danielhjerppe/)
+- 🥁 Jam with me on [YouTube](https://www.youtube.com/@DanielHjerppe/videos)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Facts
+- 🔧 Building the future, one CAD model at a time
+- 🚀 Exploring the limitless world of programming
+- 🥁 Rhythm and precision—both in code and music
